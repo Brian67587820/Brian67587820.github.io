@@ -1,7 +1,8 @@
 {
-"name": "BRI₳N",
-"description": "Welcome to Cardano Stakepool Brian! Outside of my day job, I am working on building up the pool and creating content for the homepage. Stay tuned for updates. Thank you for your support!",
-"ticker": "BRIAN",
-"homepage": "https://www.tickerbrian.com/",
-"verification": "32343a074c6acfb3bf"
+  "name": "BRIAN Pool",
+  "description": "Visit tickerbrian.com: play Ticker Arena, our free browser game, join the community and vote on Cardano governance.",
+  "ticker": "BRIAN",
+  "homepage": "https://www.tickerbrian.com/",
+  "verification": "32343a074c6acfb3bf",
+  "extended": "https://brian67587820.github.io/ext.json"
 }
