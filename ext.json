@@ -1,0 +1,29 @@
+{
+  "serial": 2026101101,
+  "pool": {
+    "id": "04fde0ce69d612a502524b556eb78ddb71ef0dcfe1ad96c76ae8e735",
+    "status": "active",
+    "contact": {
+      "primary": "twitter",
+      "twitter": "Brian67587820"
+    },
+    "media_assets": {
+      "icon_png_64x64": "https://www.tickerbrian.com/assets/brand/icon-64.png",
+      "logo_png": "https://www.tickerbrian.com/assets/brand/icon-512.png",
+      "logo_svg": "https://www.tickerbrian.com/assets/brand/icon-square.svg",
+      "color_fg": "#3CE8C0",
+      "color_bg": "#0A0E1A"
+    }
+  },
+  "info": {
+    "url_png_icon_64x64": "https://www.tickerbrian.com/assets/brand/icon-64.png",
+    "url_png_logo": "https://www.tickerbrian.com/assets/brand/icon-512.png",
+    "social": {
+      "twitter_handle": "Brian67587820"
+    },
+    "about": {
+      "me": "Welcome to Cardano Stakepool Brian! Outside of my day job, I am working on building up the pool and creating content for the homepage. Stay tuned for updates. Thank you for your support!",
+      "server": "Three public relays in the UK, France and the US, hosted by Contabo, shield a private block producer. Monitored with Prometheus and Grafana, running a Mithril signer."
+    }
+  }
+}
